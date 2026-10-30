@@ -10,6 +10,8 @@ upstream:
   version:
     type: github_release
     repo: kagemomiji/airsonic-advanced
+    require_assets:
+      - asset: '^airsonic\.war$'
   notes:
     type: github_release
     repo: kagemomiji/airsonic-advanced
