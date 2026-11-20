@@ -155,7 +155,7 @@ jcl-over-slf4j                      2.0.16                                     j
 jdom2                               2.0.6.1                                    java-archive                  
 jna                                 5.15.0                                     java-archive                  
 jna-platform                        5.15.0                                     java-archive                  
-jq                                  1.7.1-r0                                   apk                           
+jq                                  1.8.2-r0                                   apk                           
 jrt-fs                              17.0.18                                    java-archive                  
 jsoup                               1.18.1                                     java-archive                  
 jsr305                              3.0.2                                      java-archive                  
