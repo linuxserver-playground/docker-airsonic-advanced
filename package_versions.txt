@@ -182,7 +182,7 @@ libdeflate                          1.22-r0                                    a
 libdovi                             3.3.1-r0                                   apk                           
 libdrm                              2.4.123-r1                                 apk                           
 libeconf                            0.6.3-r0                                   apk                           
-libexpat                            2.10.0-r0                                  apk                           
+libexpat                            2.11.0-r0                                  apk                           
 libffi                              3.8.1-r0                                   apk                           
 libflac                             1.4.3-r1                                   apk                           
 libfontenc                          1.1.10-r0                                  apk                           
@@ -399,4 +399,4 @@ xz-libs                             5.8.4-r0                                   a
 zimg                                3.0.5-r2                                   apk                           
 zix-libs                            0.4.2-r0                                   apk                           
 zlib                                1.4-r0                                     apk                           
-zstd-libs                           1.5.6-r2                                   apk                           
+zstd-libs                           1.6.0-r1                                   apk                           
